@@ -1,0 +1,30 @@
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\HWID.csproj.GenerateResource.cache
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\HWID.csprojAssemblyReference.cache
+C:\Users\JERRY\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Client.resources
+E:\college\C# hwid project\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\college\C# hwid project\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\college\C# hwid project\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Client.resources
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\HWID.csproj.GenerateResource.cache
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+E:\college\C# hwid project\WindowsFormsApp1\obj\Release\HWID.csprojAssemblyReference.cache
+D:\college\college\C# hwid project\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\college\college\C# hwid project\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\college\college\C# hwid project\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\HWID.csprojAssemblyReference.cache
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Client.resources
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\HWID.csproj.GenerateResource.cache
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\college\college\C# hwid project\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
